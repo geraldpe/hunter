@@ -1,0 +1,6 @@
+
+re
+colorama
+os
+bs4
+progress
